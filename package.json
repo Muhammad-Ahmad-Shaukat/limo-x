@@ -1,0 +1,9 @@
+{
+  "name": "gorental-html",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static site with Vercel serverless mail API",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /assets/scss/
+
+Sitemap: https://longislandcarandlimo.com/sitemap.xml
